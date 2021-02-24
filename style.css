@@ -1,0 +1,92 @@
+* {
+	font-family: 'Noto Sans JP', sans-serif;
+	line-height: 80px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 600;
+
+}
+body{
+	height: 4000px
+}
+header{
+	font-size: 35px;
+	background-color: red;
+	z-index: 20;
+	line-height: 45px;
+}
+.header{
+	font-size: 45px;
+}
+.header2{
+	font-size: 20px;
+	position: sticky;
+	top: 0;
+	z-index: 40;
+}
+div div{
+	width: 100px;
+	height: 100px;
+	display: block;
+	position: absolute;
+	margin: 0px auto;
+    border: 3px solid black;
+}
+.incontenedor{
+	border:none;
+	display: inline-block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0;
+	bottom:0;
+	line-height: 20px;
+}
+.contenedor{
+	line-height: px;
+	position: relative;
+	display: block;
+	padding: 0px;
+	margin: 30px auto;
+	width: 400px;
+	height: 400px;
+	background-color: #FAFF7C ;
+	border: 5px solid #D8CE68  ;
+}
+.caja1{
+	background-color: #FF977C   ;
+	bottom: 0;
+	right: 0;
+
+}
+.caja2{
+	background-color: #7DFF7C ;
+	bottom: 0;
+}
+.caja3{
+	background-color: #7C81FF ;
+	left: 0;
+
+}
+.caja4{
+	background-color: #ED7AFF ;
+	right: 0;
+}
+.caja5{
+	background-color: #7AFFDB ;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+}
+.caja6{
+	width: 100px;
+	height: 100px;
+	position: fixed;
+	display: box;
+	background-color: red;
+	border: 5px solid black  ;
+	margin: 0px auto;
+
+}
