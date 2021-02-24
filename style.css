@@ -11,7 +11,7 @@ body{
 }
 header{
 	font-size: 35px;
-	background-color: red;
+	background-color: #FFAF89 ;
 	z-index: 20;
 	line-height: 45px;
 }
